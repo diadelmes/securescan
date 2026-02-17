@@ -1,0 +1,77 @@
+{
+  "home": {
+    "badge": "Yeni Sürüm v1.0",
+    "title": "Projenizi Hızlıca Başlatın",
+    "description": "Next.js 14, TypeScript, Tailwind CSS, shadcn/ui ve daha fazlasıyla hazırlanmış tam donanımlı template.",
+    "cta": {
+      "primary": "Hemen Başla",
+      "secondary": "GitHub'da İncele"
+    },
+    "features": {
+      "title": "Her Şey Dahil",
+      "fast": {
+        "title": "Hızlı Geliştirme",
+        "description": "Hazır bileşenler ve yapılandırmalarla sıfırdan başlamadan hızlıca geliştirme yapın."
+      },
+      "secure": {
+        "title": "Güvenli Auth",
+        "description": "NextAuth.js ile GitHub, Google ve e-posta/şifre kimlik doğrulaması hazır."
+      },
+      "i18n": {
+        "title": "Çoklu Dil",
+        "description": "next-intl ile Türkçe ve İngilizce desteği. Yeni dil eklemek çok kolay."
+      }
+    }
+  },
+  "auth": {
+    "fields": {
+      "email": "E-posta",
+      "password": "Şifre",
+      "name": "Ad Soyad"
+    },
+    "login": {
+      "title": "Giriş Yap",
+      "description": "Hesabınıza giriş yapın",
+      "submit": "Giriş Yap",
+      "forgotPassword": "Şifremi Unuttum",
+      "noAccount": "Hesabınız yok mu?",
+      "signUp": "Kayıt Olun"
+    },
+    "register": {
+      "title": "Hesap Oluştur",
+      "description": "Yeni bir hesap oluşturun",
+      "submit": "Kayıt Ol",
+      "hasAccount": "Zaten hesabınız var mı?",
+      "signIn": "Giriş Yapın"
+    },
+    "orContinueWith": "veya ile devam et",
+    "errors": {
+      "invalidCredentials": "E-posta veya şifre hatalı",
+      "generic": "Bir hata oluştu. Lütfen tekrar deneyin."
+    }
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "dashboard": "Panel",
+    "settings": "Ayarlar",
+    "profile": "Profil",
+    "logout": "Çıkış Yap",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol"
+  },
+  "dashboard": {
+    "title": "Panel",
+    "welcome": "Hoş geldiniz"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "confirm": "Onayla",
+    "back": "Geri"
+  }
+}

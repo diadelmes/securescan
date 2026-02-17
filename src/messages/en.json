@@ -1,0 +1,77 @@
+{
+  "home": {
+    "badge": "New Release v1.0",
+    "title": "Launch Your Project Fast",
+    "description": "A fully-featured template built with Next.js 14, TypeScript, Tailwind CSS, shadcn/ui and more.",
+    "cta": {
+      "primary": "Get Started",
+      "secondary": "View on GitHub"
+    },
+    "features": {
+      "title": "Everything Included",
+      "fast": {
+        "title": "Fast Development",
+        "description": "Pre-built components and configurations so you can build without starting from zero."
+      },
+      "secure": {
+        "title": "Secure Auth",
+        "description": "GitHub, Google and email/password authentication ready with NextAuth.js."
+      },
+      "i18n": {
+        "title": "Internationalization",
+        "description": "Turkish and English support with next-intl. Adding new languages is easy."
+      }
+    }
+  },
+  "auth": {
+    "fields": {
+      "email": "Email",
+      "password": "Password",
+      "name": "Full Name"
+    },
+    "login": {
+      "title": "Sign In",
+      "description": "Sign in to your account",
+      "submit": "Sign In",
+      "forgotPassword": "Forgot password?",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign Up"
+    },
+    "register": {
+      "title": "Create Account",
+      "description": "Create a new account",
+      "submit": "Register",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign In"
+    },
+    "orContinueWith": "or continue with",
+    "errors": {
+      "invalidCredentials": "Invalid email or password",
+      "generic": "Something went wrong. Please try again."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Sign Out",
+    "login": "Sign In",
+    "register": "Sign Up"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "back": "Back"
+  }
+}
